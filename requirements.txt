@@ -1,4 +1,4 @@
-chromadb== 0.5.3
+chromadb== 0.3.29
 pysqlite3-binary
 protobuf==3.20.*
 streamlit==1.36.0
