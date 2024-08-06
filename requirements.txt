@@ -1,5 +1,5 @@
 chromadb== 0.5.3
-# pysqlite3-binary
+pysqlite3-binary
 protobuf==3.20.*
 streamlit==1.36.0
 pypdf==4.2.0
