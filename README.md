@@ -9,7 +9,7 @@ MedicalCareBot 🤖 is a sophisticated chatbot designed to provide personalized 
 
 - GitHub repo link: [Link to repository](https://github.com/Pratikgirade)
 - Drive link (Screenshots): [Drive link here](https://drive.google.com/drive/folders/1BPsnG4dGkSXDEvNIk5FAyBg4-OQUFdLA?usp=drive_link)
-- Website link: (https://medicalchatbot2k24-pratikgirade.streamlit.app/)
+- Website link: ([https://medicalchatbot2k24-pratikgirade.streamlit.app/](https://medical-chatbot-with-rag-and-vector-db-pratikgirade22.streamlit.app/))
 
 ## How It Is Built?
 
