@@ -1,7 +1,7 @@
 chromadb== 0.3.29
 pysqlite3-binary
 protobuf==3.20.*
-streamlit==1.4.0
+streamlit
 pypdf==4.2.0
 langchain==0.2.5
 langchain-community==0.2.5
